@@ -8,6 +8,7 @@
 
 A modern multilingual desktop calculator for Windows built with \*\*C#, WPF, XAML and .NET\*\*.
 
+<img width="560" height="705" alt="{44EACCBD-37A3-41B2-A7C8-8816A55E9287}" src="https://github.com/user-attachments/assets/4102d19c-c323-4e35-80aa-c6a19b7cdd27" />
 
 
 🌐 \*\*Languages:\*\* \[English](#-english) | \[Қазақша](#-қазақша) | \[Русский](#-русский)
