@@ -1,8 +1,4 @@
-\# 🧮 Multilingual WPF Calculator
-
-
-
-\*\*Day 002 of my #365DaysOfCode challenge\*\*
+# Day 002 — Multilingual WPF Calculator
 
 
 
@@ -60,10 +56,6 @@ A modern multilingual desktop calculator for Windows built with \*\*C#, WPF, XAM
 
 
 \*\*Multilingual WPF Calculator\*\* is a simple Windows desktop calculator created with C# and Windows Presentation Foundation (WPF).
-
-
-
-The application was developed as \*\*Day 002 of my 365 Days of Code challenge\*\*.
 
 
 
@@ -553,5 +545,5 @@ This project was created for learning and educational purposes as part of the \*
 
 
 
-\*\*Day 002 / 365\*\* 🚀
+Part of the 365 Days of Code challenge. 🚀
 
